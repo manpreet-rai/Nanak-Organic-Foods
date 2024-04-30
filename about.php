@@ -33,7 +33,7 @@
     <!-- Topbar Start -->
     <div class="container-fluid px-5 d-none d-lg-block">
         <div class="d-flex align-items-center justify-content-center p-2">
-            <a href="index" class="navbar-brand ms-lg-5">
+            <a href="/" class="navbar-brand ms-lg-5">
                 <img src="/img/logo.png" alt="logo" width="169" height="auto">
             </a>
         </div>
